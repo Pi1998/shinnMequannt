@@ -1,0 +1,38 @@
+
+body{
+  font-size:400;
+  text-align:center;
+  margin:0;
+  display:block;
+}
+#main{
+  margin:20px;
+  padding:10px;
+  background:lightred;
+}
+
+#title{
+  margin-top:10px;
+
+}
+
+
+#img-div{
+  display:flex;
+  
+}
+
+#image{
+  max-width:100%;
+  height:auto;
+  align-items: center;
+}
+
+#img-caption{
+  text-align:center;
+}
+p{
+  display:block;
+  margin-top:500px;
+}
+
